@@ -1,5 +1,3 @@
 # Munchkin
 
-.zip containing `current` state (27/03/2019) of the 'Munchkin' project.
-
-test push push
+repo containing `current` state (09/04/2019) of the 'Munchkin' project.
